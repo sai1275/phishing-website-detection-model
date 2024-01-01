@@ -1,8 +1,6 @@
 # Phishing Website Detection using Machine Learning Techniques
 
-![Phishing Website Detection](https://yourimageurl.com)
-
-This repository contains code and details regarding the detection of phishing websites using various machine learning models and techniques. The project aims to classify URLs as legitimate or phishing based on extracted features using several supervised learning algorithms.
+This repository contains code and details regarding the detection of phishing websites using various machine-learning models and techniques. The project aims to classify URLs as legitimate or phishing based on extracted features using several supervised learning algorithms.
 
 ## Dataset
 
