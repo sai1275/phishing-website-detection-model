@@ -50,15 +50,3 @@ The performance of each model was evaluated using accuracy metrics on both the t
 
 - Python 3.x
 - Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn, xgboost, keras, tensorflow
-
-## Acknowledgments
-
-- Credits to [Dataset Source](https://datasourcewebsite.com) for providing the dataset used in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to replace placeholders like image URLs, dataset sources, your username, and add more specific details about the dataset or models if necessary. Adjust formatting, add installation instructions if required, and include any additional sections relevant to your project.
